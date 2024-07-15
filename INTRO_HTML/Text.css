@@ -1,0 +1,67 @@
+.video-title{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 9;
+}
+.Views-stats{
+    font-family:arial;
+    font-size: 14px;
+    color: #fcfafa;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+.Author-ref{
+    font-size: 14px;
+    font-family: arial;
+    color: rgb(238, 221, 221);
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.video-description{
+    font-family: arial;
+    font-size: 10px;
+    color: rgb(238, 221, 221);
+    margin-top: 0px;
+    width: 280px;
+    line-height: 22px;
+}
+.Apple-text {
+    background-color: rgb(227, 65, 64);
+    box-sizing :border-box;
+    color : rgb(255, 255, 255);
+    display: block;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400px;
+    height: 53px;
+    line-height: 21px;
+    margin-block-end: 16px;
+    margin-block-start: 0px;
+    margin-bottom: 16px;
+    margin-inline-end: 8px;
+    margin-inline-start: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 0px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    text-align: center;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    width: 778px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.shop-link {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.shop-link:hover{
+    text-decoration: underline;
+    }
